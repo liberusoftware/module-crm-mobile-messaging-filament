@@ -2,7 +2,7 @@
   "name": "crm-mobile-messaging-filament",
   "display_name": "CRM Mobile Messaging Filament",
   "description": "Filament resource for mobile campaigns and delivery",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\CRM\\MobileMessagingFilament\\MobileMessagingFilamentServiceProvider",
   "requires": {
